@@ -1,10 +1,3 @@
-## Two Step Encryption
-### Introduction
-Applying Steganography followed by Visual Cryptography. Implementation based on the research paper titled **"Combine use of Steganography and Visual  Cryptography for Secured Data hiding in Computer Forensics"**
-
-Steganography is the method of hiding secret data inside any form of digital media. The main idea behind steganography is to hide the existence of a data in any medium like audio, video, image etc.
-
-Visual cryptography is a cryptographic technique which allows visual information (pictures, text, etc.) to be encrypted in such a way that the decrypted information appears as a visual image.
 
 ### Architecture
 ![image](https://i.imgur.com/nh0J1Sn.png)
